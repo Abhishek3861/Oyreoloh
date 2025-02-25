@@ -7,24 +7,24 @@ Key Features
 Comprehensive Vulnerability Detection
 Oyreoloh performs detailed scans to uncover a variety of potential security weaknesses, including:
 
-Cross-Site Scripting (XSS)
-Clickjacking
-HTTP Parameter Pollution (HPP)
-Cookie Vulnerabilities
-SQL Error Exposure
-Cross-Site Request Forgery (CSRF)
-Carriage Return Line Feed (CRLF) Injections
-Local File Inclusion (LFI)
-Directory Listing
-Unauthorized Access
-Insightful Reporting
+1. Cross-Site Scripting (XSS)
+2. Clickjacking
+3. HTTP Parameter Pollution (HPP)
+4. Cookie Vulnerabilities
+5. SQL Error Exposure
+6. Cross-Site Request Forgery (CSRF)
+7. Carriage Return Line Feed (CRLF) Injections
+8. Local File Inclusion (LFI)
+9. Directory Listing
+10. Unauthorized Access
+11. Insightful Reporting
 
 
 The tool not only detects vulnerabilities but also provides:
 
 1. Detailed Summaries: Clear explanations of each issue.
 
-2 Actionable Guidance: Targeted recommendations to remediate identified weaknesses.
+2. Actionable Guidance: Targeted recommendations to remediate identified weaknesses.
 
 Why Choose Oyreoloh?
 Oyreoloh offers distinct advantages for users at every skill level:
