@@ -29,10 +29,10 @@ The tool not only detects vulnerabilities but also provides:
 Why Choose Oyreoloh?
 Oyreoloh offers distinct advantages for users at every skill level:
 
-a. Educational Value: Enhance your understanding of web security and modern defensive techniques.
-b. Practical Experience: Gain hands-on exposure to real-world vulnerabilities.
-c. Ethical Hacking Growth: Build and refine skills critical to ethical hacking practices.
-d. Enhanced Security: Play a proactive role in creating safer online environments.
+1. Educational Value: Enhance your understanding of web security and modern defensive techniques.
+2. Practical Experience: Gain hands-on exposure to real-world vulnerabilities.
+3. Ethical Hacking Growth: Build and refine skills critical to ethical hacking practices.
+4. Enhanced Security: Play a proactive role in creating safer online environments.
 
 
 
